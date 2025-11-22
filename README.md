@@ -30,7 +30,16 @@ Reproduction:
     3: Scale training data to provide better results
     4: Use trained model to predcit and confirm scores based on R2 value
 File Structure:
-/Dataset: Contains the data sets used
-/Reports: Contains the writen reports from along the way and the information about what when where and why as the project started through it's completion as well as the POWER BI Dashboard
-/Code: Shows all of the code and model preparations done
+/1Bed contains the Data for the 1 bedroom residences
+/2Bed contains the Data for the 2 bedroom residences
+/3Bed contains the Data for the 3 bedroom residences
+/4Bed contains the Data for the 4 bedroom residences
+/5Bed contains the Data for the 5 bedroom residences
+/Condo contains the Data for the Condos
+/PolicyMapData2025-10-24(1) Contains Policy Map data about Median value homes (Data used as reference not active in file)
+/PolicyMapData2025-10-24(2) Contains policy map data about median earner income
+/Other Data Contains Income and population density data sets as well as final data set post zip code additions for Indexing
+Capstone Programming contains all code for this project
+Capstone Report contains the Power BI information for the project
+/Reports contains all written reports from this project
   
